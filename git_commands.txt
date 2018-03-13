@@ -1,0 +1,13 @@
+	git config --global user.name abhijeet104 
+	git config --global user.name
+	git condig --global user.email abhijeetae@gmail.com
+	git config --global user.email abhijeetae@gmail.com
+	git config --global user.email
+
+	git init
+	git clone https://github.com/Abhijeet104/MyGithub.git
+
+	git add filename.java
+	git commit -m "removeNthFromEnd of LinkedList"
+	git push
+	//Enter username pwd
