@@ -1,4 +1,9 @@
-    public int largestRectangleArea(int[] a) {
+    /*
+	https://leetcode.com/problems/largest-rectangle-in-histogram/description/
+*/
+class LargestRectangleInHistogram{
+
+	public int largestRectangleArea(int[] a) {
         if(a == null || a.length == 0)
 	            return 0;
 	        Stack<Integer> st = new Stack<Integer>();
@@ -39,3 +44,4 @@
 	        }
 	        return max;
 	    }
+}
