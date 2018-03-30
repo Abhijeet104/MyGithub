@@ -1,3 +1,10 @@
+/**  LongestPalindromeSubsequence
+
+    https://leetcode.com/problems/longest-palindromic-subsequence/description/
+
+**/
+
+
 class LongestPalindromeSubsequence{
 
     public int longestPalindromeSubseq(String s) {
