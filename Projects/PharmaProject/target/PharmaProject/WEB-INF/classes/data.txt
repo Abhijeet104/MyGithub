@@ -1,3 +1,4 @@
+[
 {
 	"name":"Saridon",
 	"_id":"Saridon500",
@@ -5,10 +6,10 @@
 	"manufacturer":"Abbott Health",
 	"category":"tablet",
 	"genericName":"SaridonXYZ",
-	"quantity":"500mg",
+	"quantity":"500",
 	"expiryDate":"20 May,2018",
 	"composition":"Caffeine, Paracetamol and Propylphenazone "
-}
+},
 
 
 {
@@ -18,10 +19,10 @@
 	"manufacturer":"Johnson & Johnson Ltd",
 	"category":"syrpu",
 	"genericName":"BenadrylSyp",
-	"quantity":"500ml",
+	"quantity":"500",
 	"expiryDate":"20 Aug,2018",
 	"composition":"Diphenhydramine , Ammonium Chloride, Sodium Citrate"
-}
+},
 
 
 {
@@ -31,9 +32,13 @@
 	"manufacturer":"Zandu",
 	"category":"Lotion",
 	"genericName":"ZanduBalm",
-	"quantity":"25ml",
+	"quantity":"25",
 	"expiryDate":"20 May,2018",
 	"composition":"Mentha Sp. Satva, Gaultheria Fragrantissima, Eucalyptus Globulus, Base q.s."
 }
 
 
+
+
+	
+]
