@@ -11,3 +11,13 @@
 	git commit -m "removeNthFromEnd of LinkedList"
 	git push
 	//Enter username pwd
+
+
+-- reset(i.e. delete back) added files by 'git add filename.txt'
+	git reset filename.txt
+
+--to see the changes of last 2 commits of a file
+git diff filenet.txt
+
+--uncommit the last commit
+git reset HEAD~  
